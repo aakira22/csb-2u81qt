@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aakira22.github.io/csb-2u81qt/static/css/main.9e67cafc.chunk.css",
+    "main.js": "https://aakira22.github.io/csb-2u81qt/static/js/main.fc71b56b.chunk.js",
+    "main.js.map": "https://aakira22.github.io/csb-2u81qt/static/js/main.fc71b56b.chunk.js.map",
+    "runtime-main.js": "https://aakira22.github.io/csb-2u81qt/static/js/runtime-main.c30b9a7b.js",
+    "runtime-main.js.map": "https://aakira22.github.io/csb-2u81qt/static/js/runtime-main.c30b9a7b.js.map",
+    "static/js/2.0b271930.chunk.js": "https://aakira22.github.io/csb-2u81qt/static/js/2.0b271930.chunk.js",
+    "static/js/2.0b271930.chunk.js.map": "https://aakira22.github.io/csb-2u81qt/static/js/2.0b271930.chunk.js.map",
+    "index.html": "https://aakira22.github.io/csb-2u81qt/index.html",
+    "static/css/main.9e67cafc.chunk.css.map": "https://aakira22.github.io/csb-2u81qt/static/css/main.9e67cafc.chunk.css.map",
+    "static/js/2.0b271930.chunk.js.LICENSE.txt": "https://aakira22.github.io/csb-2u81qt/static/js/2.0b271930.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c30b9a7b.js",
+    "static/js/2.0b271930.chunk.js",
+    "static/css/main.9e67cafc.chunk.css",
+    "static/js/main.fc71b56b.chunk.js"
+  ]
+}
